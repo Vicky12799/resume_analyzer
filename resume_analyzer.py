@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main(): 
-    # st.header("header")
+    st.header("header")
     st.title("File Upload Tutorial")
     menu = ["Home", "Dataset", "DocumentFiles","About"]
     choice = st.sidebar.selectbox("Menu",menu)
