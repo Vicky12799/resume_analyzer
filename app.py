@@ -15,7 +15,7 @@ pytesseract.pytesseract.tesseract_cmd = (
     r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 )
 
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("./model/en/")
 
 
 def showpdf(file):
