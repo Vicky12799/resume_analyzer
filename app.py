@@ -11,9 +11,7 @@ import spacy
 import re
 from transformers import pipeline
 
-pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
-)
+pytesseract.pytesseract.tesseract_cmd = r".\\model\\Tesseract-OCR\\tesseract.exe"
 
 nlp = spacy.load("./model/en/")
 
