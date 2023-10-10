@@ -8,11 +8,9 @@
 
 The Resume Analyzer and Summarizer Web Application is a tool that allows users to upload their resumes in PDF format for automated analysis and summarization. This project combines image processing, natural language processing, and web development to offer a comprehensive solution for resume evaluation.
 
-<p>
-    <img src="./images/1.png" />
-    <img src="./images/2.png" />
-    <img src="./images/3.png" />
-</p>
+![Web Application Screenshot](./images/1.PNG)
+![Web Application Screenshot](./images/2.PNG)
+![Web Application Screenshot](./images/3.PNG)
 
 ## Features
 
